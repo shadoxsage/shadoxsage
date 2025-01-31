@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Noah</a></b>
+                <b><a target="_blank" href="https://x.com/aelio_vc">Noah</a></b>
         </samp>
 </h3>
 
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
- <a href="#" target="_blank">
-  <a href="#" target="_blank">
+ <a href="https://x.com/aelio_vc" target="_blank">
+  <a href="https://x.com/aelio_vc" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 
