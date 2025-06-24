@@ -1,12 +1,8 @@
 <!-- Intro -->
 <h3 align="left">
-  <samp>Noah – Software Engineer</samp>
+  Noah – Software Engineer
 </h3>
-<p>
-  <samp>
-    <a href="https://x.com/aelio_vc" target="_blank">@aelio</a> – noah.h@aelio.vc
-  </samp>
-</p>
+<a href="https://x.com/aelio_vc" target="_blank">@aelio</a> – noah.h@aelio.vc
 
 ---
 
