@@ -1,5 +1,5 @@
 <!-- Intro -->
-<h3 align="center">
+<h3 align="left">
   <samp>&gt; Noah – Software Engineer</samp>
 </h3>
 
